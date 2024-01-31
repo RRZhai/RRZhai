@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shiyao Zhai</h1> 
 <h3 align="center">Full Stack Web Developer with a passion for bringing ideas to life through code.</h3>
 
-- 🔭 I’m currently working on [GIGU](https://github.com/RRZhai/GIGU-on-demand-job-searching)
+- 🔭 I’m currently working on [Minique](https://github.com/RRZhai/GIGU-on-demand-job-searching)
 
 - 📝 I regularly write articles on [https://medium.com/@zsshiyaozhai](https://medium.com/@zsshiyaozhai)
 
