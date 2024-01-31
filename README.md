@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shiyaozhaiwe@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1C4aV4B7O30crlFkpBWBtSKv5RmFJwUp4vvME_UF7FwI/edit?usp=sharing](https://docs.google.com/document/d/1C4aV4B7O30crlFkpBWBtSKv5RmFJwUp4vvME_UF7FwI/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JSQqpmNvxzP5hgKpAC8qABuR8e2q0ge4/view?usp=drivesdk](https://drive.google.com/file/d/1JSQqpmNvxzP5hgKpAC8qABuR8e2q0ge4/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
